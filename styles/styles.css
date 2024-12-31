@@ -47,7 +47,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 82px;
+    gap: 82%; aaa
 }
 
 .apresentacao_conteudo{
@@ -145,7 +145,7 @@ body{
         padding: 5%;
     }
 
-    .apresentacao_conteudo[
+    .apresentacao_conteudo{
         width: auto;
-    ]
+    }
 }
